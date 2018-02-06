@@ -1,0 +1,1 @@
+mpirun -mca plm_rsh_agent /go/src/github.com/kuberlab/board-mpi/board-mpi -H 172.17.0.3 python test.py
